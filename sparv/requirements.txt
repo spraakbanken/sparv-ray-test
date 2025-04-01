@@ -1,0 +1,1 @@
+sparv-pipeline @ git+https://github.com/spraakbanken/sparv.git@dev
