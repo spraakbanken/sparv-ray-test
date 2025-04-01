@@ -3,7 +3,7 @@ from ray.job_submission import JobSubmissionClient
 
 runtime_env = {
   "pip": "./requirements.txt",
-  "working_dir": "working_dir.zip",
+  "working_dir": ".",
   "env_vars": {
       "SPARV_DATADIR": "."
   }

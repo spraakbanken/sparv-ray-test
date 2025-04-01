@@ -1,2 +1,7 @@
 .venv
 
+config
+version
+example_corpora
+bin
+
